@@ -41,10 +41,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Vue](https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=Vue&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Vue](https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=VueJs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Sql](https://img.shields.io/badge/-Sql-0D1117?style=for-the-badge&logo=Sql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Sql](https://img.shields.io/badge/-Sql-0D1117?style=for-the-badge&logo=MySql&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
   <div align="center">
