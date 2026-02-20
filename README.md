@@ -1,56 +1,138 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Nikolas+Silva+Daltro+Santos;I'm+26+years+old;I+from+Brasil,+Palmas-TO;Analyst+QA;Studant+Front-End;+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e75b6&size=28&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Nikolas+Daltro;QA+Analyst+%7C+Mobile+%26+Web+Testing;Manual+%26+Automation+Testing;API+Testing+%7C+SQL+%7C+Agile;Ensuring+Quality+in+Every+Release)](https://git.io/typing-svg)
+
+---
+
+## 👨‍💻 About Me
+
+🎯 QA Analyst with 3+ years of experience in Mobile and Web Testing  
+📱 Strong background in Android & iOS testing  
+🌐 Experience with Web, SaaS platforms and Government Systems  
+🔍 Focused on quality, usability, stability and continuous improvement  
+🤖 Evolving in Test Automation and AI applied to QA  
+
+---
+
+## 💼 Professional Experience
+
+### 🏛️ Government Systems (ATI – State Technology Agency)
+
+- Functional and non-functional testing  
+- Regression testing and bug validation  
+- API REST testing with Postman  
+- Login integration validation  
+- Test case creation and documentation  
+- Bug tracking and prioritization  
+- Working in Agile environments  
+
+---
+
+### 📱 Mobile Applications (Android & iOS)
+
+- Online auction apps  
+- Sports recruitment platforms  
+- Tournament registration systems  
+- School management apps  
+
+✔️ Manual testing across multiple devices and OS versions  
+✔️ Front-end, back-end and database validation  
+✔️ Regression testing before releases  
+✔️ Automation with Selenium  
+
+---
+
+### 🌐 Web / SaaS Projects
+
+✔️ Functional and integration testing  
+✔️ REST API validation  
+✔️ SQL data validation  
+✔️ Automation with Robot Framework  
+✔️ Client support during UAT  
+
+---
+
+## 🧪 QA Technical Skills
+
+### 🔍 Testing Types
+- Functional Testing  
+- Regression Testing  
+- Integration Testing  
+- Exploratory Testing  
+- UAT (Homologation)  
+- Test Planning & Documentation  
+
+---
+
+### 🤖 Test Automation
+![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117)&nbsp;
+![Robot Framework](https://img.shields.io/badge/-Robot_Framework-0D1117?style=for-the-badge&logo=robotframework&labelColor=0D1117)&nbsp;
+
+- Automation with JavaScript and Python  
+- Basic CI/CD pipeline execution  
+- Test scripts maintenance  
+
+---
+
+### 🔗 API & Database
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
+- REST API validation  
+- Collections & scripts in Postman  
+- SQL queries for data validation  
+
+---
+
+## 🚀 AI Applied to QA
+
+- Test scenario generation  
+- Bug analysis assistance  
+- Test coverage optimization  
+- Productivity improvement using AI tools  
+
+---
+
+## 🛠 Tools
+
+![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
+- Scrum & Kanban  
+- Agile collaboration with Dev & Product teams  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NikolasDaltro&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nikolas Daltro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolasDaltro&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=NikolasDaltro&show_icons=true&theme=tokyonight&hide_border=true" 
+  /> 
+  <img 
+    width="41%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikolasDaltro&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NikolasDaltro&theme=gotham)
+---
 
+## 🌎 Connect with me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikolasDaltro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+📧 nikolasdsantos@gmail.com  
+🔗 linkedin.com/in/nikolasdaltro-897795244  
+💻 github.com/NikolasDaltro  
 
-<div align="center">  
-<a href="https://instagram.com/nikolas.daltro?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
+---
 
-### Main skills:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=Vue.js&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![Vue](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=Vue.Js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=Postman&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Sql](https://img.shields.io/badge/-Sql-0D1117?style=for-the-badge&logo=MySql&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{NikolasDaltro}/count.svg" /></p> 
+<div align="center">
+<br><p><b>Visitors Count</b></p>  
+<p><img src="https://profile-counter.glitch.me/NikolasDaltro/count.svg" /></p> 
 <br></div>
-  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
